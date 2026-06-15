@@ -1,8 +1,8 @@
 // import './App.css'
-import AccordionBar from './CodingQuestions/accordion.js'
+import Modal from './CodingQuestions/Modal/index.js'
 
 function App() {
-  return <AccordionBar />
+  return <Modal/>
 }
 
 export default App

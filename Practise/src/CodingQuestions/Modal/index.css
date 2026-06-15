@@ -1,0 +1,6 @@
+.backDrop{
+ position: fixed;
+ background-color: lightblue;
+ z-index: 100;
+ align-items: center;
+}
