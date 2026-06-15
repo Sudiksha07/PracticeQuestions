@@ -1,8 +1,10 @@
 // import './App.css'
-import Modal from './CodingQuestions/Modal/index.js'
+import Otp from './CodingQuestions/otp'
 
 function App() {
-  return <Modal/>
+  return (
+    <Otp/>
+  )
 }
 
 export default App
