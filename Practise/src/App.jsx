@@ -1,9 +1,9 @@
 // import './App.css'
-import Otp from './CodingQuestions/otp'
+import Theme from './CodingQuestions/theme'
 
 function App() {
   return (
-    <Otp/>
+    <Theme/>
   )
 }
 
