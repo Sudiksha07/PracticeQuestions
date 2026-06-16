@@ -1,9 +1,9 @@
 // import './App.css'
-import Theme from './CodingQuestions/theme'
+import ExampleContext from './CodingQuestions/ContextApi/ExampleContext'
 
 function App() {
   return (
-    <Theme/>
+    <ExampleContext/>
   )
 }
 
